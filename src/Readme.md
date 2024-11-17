@@ -20,7 +20,7 @@ test cases.
 <p align="center"> 
   <img src="./simMedia/image10.png" />
 </p>
-<p align="center"><em>Figure 10: Test Bench Initialization</em></p>
+<p align="center"><em>Figure 1: Test Bench Initialization</em></p>
 
 
 To elaborate; memData is the 128-bit data block from main memory;
